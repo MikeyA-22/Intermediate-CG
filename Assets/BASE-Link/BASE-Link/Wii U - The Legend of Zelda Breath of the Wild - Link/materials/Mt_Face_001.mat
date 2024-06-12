@@ -79,7 +79,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _normal:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: aa9424737214844a3a5000d643c3eba0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -129,11 +129,11 @@ Material:
     - _UVSec: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _edgeSize: 0.8
-    - _fuzziness: 0
-    - _light_intensity: 2
-    - _range: 0
-    - _strngth_nmap: 0
+    - _edgeSize: -0.08
+    - _fuzziness: 4.48
+    - _light_intensity: 2.3
+    - _range: 3.03
+    - _strngth_nmap: -2.1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
